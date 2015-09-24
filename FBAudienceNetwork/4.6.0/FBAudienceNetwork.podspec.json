@@ -13,7 +13,7 @@
     "ios": "7.0"
   },
   "source": {
-    "http": "https://origincache.facebook.com/developers/resources/?id=FacebookSDKs-iOS-20150910.zip"
+    "http": "https://dl.dropboxusercontent.com/u/11611988/download/FacebookSDKs-iOS-20150910.zip"
   },
   "public_header_files": "FBAudienceNetwork.framework/**/*.h",
   "frameworks": [
