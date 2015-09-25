@@ -41,6 +41,5 @@
   "xcconfig": {
     "OTHER_LDFLAGS": "-ObjC"
   },
-  "requires_arc": false,
-  "prepare_command": "echo ls InMobi-iOS-SDK*\nmv InMobi-iOS-SDK* InMobi-iOS-SDK\nmv InMobi-iOS-SDK/Libs/libInMobi*.a InMobi-iOS-SDK/Libs/libInMobi.a"
-}
+  "requires_arc": false
+  }
